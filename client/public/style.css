@@ -1,0 +1,12 @@
+.list-search {
+    list-style: none;
+    padding: 6px;
+    border-bottom: 1px solid #efecec;
+    cursor: pointer;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #9d1315;
+    margin-top: 10px;
+}
